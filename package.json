@@ -1,0 +1,25 @@
+{
+  "name": "css_diff",
+  "version": "0.0.1",
+  "description": "semantic diff for css stylesheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellst/css_diff.git"
+  },
+  "author": "Mitchell Stoutin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitchellst/css_diff/issues"
+  },
+  "homepage": "https://github.com/mitchellst/css_diff#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.2.1",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.8.0"
+  }
+}
